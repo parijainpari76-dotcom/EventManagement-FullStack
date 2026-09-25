@@ -1,4 +1,0 @@
-$kind: http-request
-url: http://localhost:5000/api/events/{{event_id}}
-method: GET
-order: 2000

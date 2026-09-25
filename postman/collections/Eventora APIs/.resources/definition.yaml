@@ -1,7 +1,0 @@
-$kind: collection
-description: ""
-variables:
-  token: ""
-  event_id: ""
-  free_event_id: ""
-  booking_id: ""
